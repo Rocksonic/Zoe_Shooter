@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Weapon Bobbing
+  - Bobbing
+  - Event
+  - Parts
+  - Parts2
+  - SelectPlayer
+  - ShopManager
+  - EnemyDis
+  - EnemyMele
+  - EnemyBoss
+  - WeaponPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Weapon
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Enemy
+  - Ceiling
+  - Marker
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 3998363521
+    locked: 0

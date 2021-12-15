@@ -1,0 +1,187 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise N; OS build 19042.1288; Version 2009; 64bit' Language: 'es' Physical Memory: 8174 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker12
+-projectPath
+C:/Users/ezequ/ZoeShooter (1)
+-logFile
+Logs/AssetImportWorker12.log
+-srvPort
+56258
+Successfully changed project path to: C:/Users/ezequ/ZoeShooter (1)
+C:/Users/ezequ/ZoeShooter (1)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 174.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ezequ/ZoeShooter (1)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.5751
+Shader 'HoloShaderPack/Master': fallback shader 'HoloSimple' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56660
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005803 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 201.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.412 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.018997 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.705 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'HoloShaderPack/Master': fallback shader 'HoloSimple' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.30 seconds
+Refreshing native plugins compatible for Editor in 1.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2329 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.7 MB.
+System memory in use after: 118.8 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2775.
+Total: 5.111600 ms (FindLiveObjects: 0.633000 ms CreateObjectMapping: 0.197700 ms MarkObjects: 3.802500 ms  DeleteObjects: 0.476600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Scripts/Killzone.cs
+  artifactKey: Guid(367cb744bfcd3404f8c8a08c9132cc3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scripts/Killzone.cs using Guid(367cb744bfcd3404f8c8a08c9132cc3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b964e49f3223d9bec5bf729f2cbdd6a1') in 0.722333 seconds
+  Import took 0.888121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 246.789713 seconds.
+  path: Assets/Scenes/Scripts/StartMenu.cs
+  artifactKey: Guid(082ededbc266a0f43903564ca89ec8c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scripts/StartMenu.cs using Guid(082ededbc266a0f43903564ca89ec8c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '030e73b0b51597d2e10c6a7745cbb8fa') in 0.070957 seconds
+  Import took 0.292368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.246396 seconds.
+  path: Assets/Scenes/Scripts/Spawner.cs
+  artifactKey: Guid(1bcf21876a804654ebfb37d2c1246de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scripts/Spawner.cs using Guid(1bcf21876a804654ebfb37d2c1246de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f61a9ec3f81c5a466d9a74f70b5069c') in 0.080426 seconds
+  Import took 0.234080 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.072482 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.902 seconds
+Platform modules already initialized, skipping
+Shader 'HoloShaderPack/Master': fallback shader 'HoloSimple' not found
+Refreshing native plugins compatible for Editor in 1.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2281 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.4 MB.
+System memory in use after: 114.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2778.
+Total: 4.626600 ms (FindLiveObjects: 0.511300 ms CreateObjectMapping: 0.145500 ms MarkObjects: 3.796800 ms  DeleteObjects: 0.171300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 513.118731 seconds.
+  path: Assets/Scenes/Scripts/Spawner.cs
+  artifactKey: Guid(1bcf21876a804654ebfb37d2c1246de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scripts/Spawner.cs using Guid(1bcf21876a804654ebfb37d2c1246de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c432f59d79c98ed589ec11a26186f37') in 0.017611 seconds
+  Import took 0.048167 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.197887 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.149 seconds
+Platform modules already initialized, skipping
+Shader 'HoloShaderPack/Master': fallback shader 'HoloSimple' not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2281 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.6 MB.
+System memory in use after: 114.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2781.
+Total: 3.924800 ms (FindLiveObjects: 0.513100 ms CreateObjectMapping: 0.137600 ms MarkObjects: 3.104600 ms  DeleteObjects: 0.167800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014762 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.344 seconds
+Platform modules already initialized, skipping
+Shader 'HoloShaderPack/Master': fallback shader 'HoloSimple' not found
+Refreshing native plugins compatible for Editor in 1.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2281 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.6 MB.
+System memory in use after: 114.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2784.
+Total: 4.351600 ms (FindLiveObjects: 0.758800 ms CreateObjectMapping: 0.427400 ms MarkObjects: 2.991200 ms  DeleteObjects: 0.172600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.109315 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.308 seconds
+Platform modules already initialized, skipping
+Shader 'HoloShaderPack/Master': fallback shader 'HoloSimple' not found
+Refreshing native plugins compatible for Editor in 1.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2281 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.6 MB.
+System memory in use after: 114.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2787.
+Total: 3.422000 ms (FindLiveObjects: 0.488200 ms CreateObjectMapping: 0.152800 ms MarkObjects: 2.620500 ms  DeleteObjects: 0.158900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

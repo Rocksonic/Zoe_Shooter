@@ -1,0 +1,534 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise N; OS build 19042.1288; Version 2009; 64bit' Language: 'es' Physical Memory: 8174 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/ezequ/ZoeShooter (1)
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+57057
+Successfully changed project path to: C:/Users/ezequ/ZoeShooter (1)
+C:/Users/ezequ/ZoeShooter (1)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 114.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ezequ/ZoeShooter (1)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.5751
+Shader 'HoloShaderPack/Master': fallback shader 'HoloSimple' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56920
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003099 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 112.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.411 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.010175 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.116 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'HoloShaderPack/Master': fallback shader 'HoloSimple' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.23 seconds
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2328 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.4 MB.
+System memory in use after: 118.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2774.
+Total: 3.834700 ms (FindLiveObjects: 0.507700 ms CreateObjectMapping: 0.148300 ms MarkObjects: 2.955100 ms  DeleteObjects: 0.222200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012568 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.480 seconds
+Platform modules already initialized, skipping
+Shader 'HoloShaderPack/Master': fallback shader 'HoloSimple' not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2280 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.2 MB.
+System memory in use after: 114.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2777.
+Total: 3.675200 ms (FindLiveObjects: 0.520700 ms CreateObjectMapping: 0.156000 ms MarkObjects: 2.840200 ms  DeleteObjects: 0.156900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011257 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.141 seconds
+Platform modules already initialized, skipping
+Shader 'HoloShaderPack/Master': fallback shader 'HoloSimple' not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2280 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.3 MB.
+System memory in use after: 114.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2780.
+Total: 3.307800 ms (FindLiveObjects: 0.446700 ms CreateObjectMapping: 0.134000 ms MarkObjects: 2.577600 ms  DeleteObjects: 0.147700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014877 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.175 seconds
+Platform modules already initialized, skipping
+Shader 'HoloShaderPack/Master': fallback shader 'HoloSimple' not found
+Refreshing native plugins compatible for Editor in 1.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2280 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.3 MB.
+System memory in use after: 114.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2783.
+Total: 6.407700 ms (FindLiveObjects: 0.890500 ms CreateObjectMapping: 0.282400 ms MarkObjects: 5.033500 ms  DeleteObjects: 0.199300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.040599 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.507 seconds
+Platform modules already initialized, skipping
+Shader 'HoloShaderPack/Master': fallback shader 'HoloSimple' not found
+Refreshing native plugins compatible for Editor in 4.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2280 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.3 MB.
+System memory in use after: 114.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2786.
+Total: 5.807600 ms (FindLiveObjects: 0.527400 ms CreateObjectMapping: 0.248300 ms MarkObjects: 4.856000 ms  DeleteObjects: 0.173400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012926 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.544 seconds
+Platform modules already initialized, skipping
+Shader 'HoloShaderPack/Master': fallback shader 'HoloSimple' not found
+Refreshing native plugins compatible for Editor in 1.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2280 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.4 MB.
+System memory in use after: 114.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2789.
+Total: 3.642800 ms (FindLiveObjects: 0.453100 ms CreateObjectMapping: 0.135800 ms MarkObjects: 2.899000 ms  DeleteObjects: 0.153500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Prefabs/Enemys/BossDis/Boss Marker.prefab
+  artifactKey: Guid(c32dc8690c9c9b7409f9735374655886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/BossDis/Boss Marker.prefab using Guid(c32dc8690c9c9b7409f9735374655886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f1ed41bd478ab12e4befb20b0a85dc0') in 0.169653 seconds
+  Import took 0.225852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.829683 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab
+  artifactKey: Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab using Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db1ec6633d0e5f5a48809e2b4bc11a08') in 0.028444 seconds
+  Import took 0.035789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013661 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab
+  artifactKey: Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab using Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db1ec6633d0e5f5a48809e2b4bc11a08') in 0.010056 seconds
+  Import took 0.016628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.320067 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab
+  artifactKey: Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab using Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f62c6ca3af6238c0e070c75c846daf64') in 0.010141 seconds
+  Import took 0.017567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.601754 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/EnemyMele/MeleeEnemy.prefab
+  artifactKey: Guid(c8f46a7bda6bcd349b89d17a67122c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/EnemyMele/MeleeEnemy.prefab using Guid(c8f46a7bda6bcd349b89d17a67122c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '679c4a2d3aa6e61e92beb82be44a0243') in 0.930219 seconds
+  Import took 0.944308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/EnemyMele/OtherMeleeEnemy.prefab
+  artifactKey: Guid(cb56eb1d9c5cb3c43bd34d9626c056be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/EnemyMele/OtherMeleeEnemy.prefab using Guid(cb56eb1d9c5cb3c43bd34d9626c056be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d74db2e784b8629e4b8da425525e44b') in 0.441795 seconds
+  Import took 0.466431 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010844 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.023 seconds
+Platform modules already initialized, skipping
+Shader 'HoloShaderPack/Master': fallback shader 'HoloSimple' not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2280 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 117.5 MB.
+System memory in use after: 117.7 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2800.
+Total: 5.428200 ms (FindLiveObjects: 0.530300 ms CreateObjectMapping: 0.139800 ms MarkObjects: 4.160100 ms  DeleteObjects: 0.595600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.042554 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/EnemyMele/OtherMeleeEnemy.prefab
+  artifactKey: Guid(cb56eb1d9c5cb3c43bd34d9626c056be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/EnemyMele/OtherMeleeEnemy.prefab using Guid(cb56eb1d9c5cb3c43bd34d9626c056be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb30da16b9cb388ad5e3a40ec79c75d8') in 0.566887 seconds
+  Import took 0.586340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.334948 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/EnemyMele/OtherMeleeEnemy.prefab
+  artifactKey: Guid(cb56eb1d9c5cb3c43bd34d9626c056be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/EnemyMele/OtherMeleeEnemy.prefab using Guid(cb56eb1d9c5cb3c43bd34d9626c056be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a364a144d83494f76c49d3f5929a2a6') in 0.470878 seconds
+  Import took 0.487030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.620986 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/EnemyMele/OtherMeleeEnemy.prefab
+  artifactKey: Guid(cb56eb1d9c5cb3c43bd34d9626c056be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/EnemyMele/OtherMeleeEnemy.prefab using Guid(cb56eb1d9c5cb3c43bd34d9626c056be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8424acace8ff3bdcd87bd4c1762eb2d8') in 0.368430 seconds
+  Import took 0.382384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.782842 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/BossDis/ShooterBoss.prefab
+  artifactKey: Guid(49d48e9b1d369ba46864907ef6ca23bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/BossDis/ShooterBoss.prefab using Guid(49d48e9b1d369ba46864907ef6ca23bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f03785d8efced9f75908e94ce8e05ac7') in 0.324738 seconds
+  Import took 0.346702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.073956 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/BossDis/ShooterBoss.prefab
+  artifactKey: Guid(49d48e9b1d369ba46864907ef6ca23bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/BossDis/ShooterBoss.prefab using Guid(49d48e9b1d369ba46864907ef6ca23bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec6dede3eb6d0859dd31eb8a281282fc') in 0.172588 seconds
+  Import took 0.198590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.661179 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/BossDis/ShooterBoss.prefab
+  artifactKey: Guid(49d48e9b1d369ba46864907ef6ca23bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/BossDis/ShooterBoss.prefab using Guid(49d48e9b1d369ba46864907ef6ca23bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aa576280ad2c25463f49bff0f83f81d') in 0.171048 seconds
+  Import took 0.203834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.376813 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/BossDis/ShooterBoss.prefab
+  artifactKey: Guid(49d48e9b1d369ba46864907ef6ca23bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/BossDis/ShooterBoss.prefab using Guid(49d48e9b1d369ba46864907ef6ca23bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca62062044ffaa25485e69b48fa86321') in 0.159066 seconds
+  Import took 0.178351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.911675 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/BossDis/Boss Marker.prefab
+  artifactKey: Guid(c32dc8690c9c9b7409f9735374655886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/BossDis/Boss Marker.prefab using Guid(c32dc8690c9c9b7409f9735374655886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b0fc7a729172e8c7d6f883faa11418a') in 0.017395 seconds
+  Import took 0.038964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006529 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/BossDis/Boss Marker.prefab
+  artifactKey: Guid(c32dc8690c9c9b7409f9735374655886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/BossDis/Boss Marker.prefab using Guid(c32dc8690c9c9b7409f9735374655886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b0fc7a729172e8c7d6f883faa11418a') in 0.008920 seconds
+  Import took 0.015704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.848383 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/EnemyDis/OthersEnemyDis.prefab
+  artifactKey: Guid(9e4c877f4f9f1f1418c809ec828a866c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/EnemyDis/OthersEnemyDis.prefab using Guid(9e4c877f4f9f1f1418c809ec828a866c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc6c015722032a6f14421a06d3e67bbc') in 1.000842 seconds
+  Import took 1.026302 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010503 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.046 seconds
+Platform modules already initialized, skipping
+Shader 'HoloShaderPack/Master': fallback shader 'HoloSimple' not found
+Refreshing native plugins compatible for Editor in 1.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2280 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.4 MB.
+System memory in use after: 118.6 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2807.
+Total: 3.463900 ms (FindLiveObjects: 0.570400 ms CreateObjectMapping: 0.186900 ms MarkObjects: 2.527800 ms  DeleteObjects: 0.176900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.590937 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab
+  artifactKey: Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab using Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f3cd16a07c198edeb47b951fb50e80e') in 0.068772 seconds
+  Import took 0.075081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.241574 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab
+  artifactKey: Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab using Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af99087e86a085a4a01a052b24ce8276') in 0.008105 seconds
+  Import took 0.018493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.587368 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/BossDis/Boss Marker.prefab
+  artifactKey: Guid(c32dc8690c9c9b7409f9735374655886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/BossDis/Boss Marker.prefab using Guid(c32dc8690c9c9b7409f9735374655886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00d633c48670d95da1e4326030493f75') in 0.008708 seconds
+  Import took 0.015067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.205288 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/BossDis/Boss Marker.prefab
+  artifactKey: Guid(c32dc8690c9c9b7409f9735374655886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/BossDis/Boss Marker.prefab using Guid(c32dc8690c9c9b7409f9735374655886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19a725ecd0e02311bf7b7ade1e656242') in 0.010292 seconds
+  Import took 0.017008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021407 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/BossDis/Boss Marker.prefab
+  artifactKey: Guid(c32dc8690c9c9b7409f9735374655886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/BossDis/Boss Marker.prefab using Guid(c32dc8690c9c9b7409f9735374655886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19a725ecd0e02311bf7b7ade1e656242') in 0.008045 seconds
+  Import took 0.015454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.293703 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/BossDis/Boss Marker.prefab
+  artifactKey: Guid(c32dc8690c9c9b7409f9735374655886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/BossDis/Boss Marker.prefab using Guid(c32dc8690c9c9b7409f9735374655886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46d391a4a3d0e83d65c6e6c58e58e610') in 0.018897 seconds
+  Import took 0.026277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.556669 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/BossDis/Boss Marker.prefab
+  artifactKey: Guid(c32dc8690c9c9b7409f9735374655886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/BossDis/Boss Marker.prefab using Guid(c32dc8690c9c9b7409f9735374655886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e28438db012c8b7ba5d618e794957e4') in 0.008739 seconds
+  Import took 0.033031 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010771 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 3.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.879 seconds
+Platform modules already initialized, skipping
+Shader 'HoloShaderPack/Master': fallback shader 'HoloSimple' not found
+Refreshing native plugins compatible for Editor in 1.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2280 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.5 MB.
+System memory in use after: 118.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2810.
+Total: 3.921200 ms (FindLiveObjects: 0.684400 ms CreateObjectMapping: 0.155500 ms MarkObjects: 2.904300 ms  DeleteObjects: 0.175300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.127597 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab
+  artifactKey: Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab using Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94803ed684d6990e7594a23ad1b0cd50') in 0.103131 seconds
+  Import took 0.112707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.821106 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab
+  artifactKey: Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab using Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cd79032ab1bddfe6874c68052e87bd3') in 0.010238 seconds
+  Import took 0.017051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.453184 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab
+  artifactKey: Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab using Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c18d1b6bf43582529608f9f21616dd84') in 0.014303 seconds
+  Import took 0.021034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020179 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab
+  artifactKey: Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab using Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c18d1b6bf43582529608f9f21616dd84') in 0.009484 seconds
+  Import took 0.017549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.625646 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab
+  artifactKey: Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/EnemyDis/Player Marker Variant.prefab using Guid(8ed3d4ef6ce6eb744bad719f12f43629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38f9c938a8cd5f0b48acdeb74a862227') in 0.010223 seconds
+  Import took 0.035299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.376565 seconds.
+  path: Assets/Scenes/Prefabs/Enemys/BossDis/Boss Marker.prefab
+  artifactKey: Guid(c32dc8690c9c9b7409f9735374655886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prefabs/Enemys/BossDis/Boss Marker.prefab using Guid(c32dc8690c9c9b7409f9735374655886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45698ab2280125970c7b9bb9a8876d74') in 0.012699 seconds
+  Import took 0.020160 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.145420 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.099 seconds
+Platform modules already initialized, skipping
+Shader 'HoloShaderPack/Master': fallback shader 'HoloSimple' not found
+Refreshing native plugins compatible for Editor in 1.19 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2280 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.6 MB.
+System memory in use after: 118.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2813.
+Total: 3.257900 ms (FindLiveObjects: 0.430700 ms CreateObjectMapping: 0.136300 ms MarkObjects: 2.513200 ms  DeleteObjects: 0.175700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014487 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.470 seconds
+Platform modules already initialized, skipping
+Shader 'HoloShaderPack/Master': fallback shader 'HoloSimple' not found
+Refreshing native plugins compatible for Editor in 1.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2280 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.5 MB.
+System memory in use after: 118.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2816.
+Total: 3.907300 ms (FindLiveObjects: 0.507200 ms CreateObjectMapping: 0.146900 ms MarkObjects: 3.070500 ms  DeleteObjects: 0.180900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011998 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.194 seconds
+Platform modules already initialized, skipping
+Shader 'HoloShaderPack/Master': fallback shader 'HoloSimple' not found
+Refreshing native plugins compatible for Editor in 1.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2280 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.6 MB.
+System memory in use after: 118.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2819.
+Total: 3.610600 ms (FindLiveObjects: 0.566500 ms CreateObjectMapping: 0.169800 ms MarkObjects: 2.696500 ms  DeleteObjects: 0.175700 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
